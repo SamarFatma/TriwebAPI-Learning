@@ -1,0 +1,25 @@
+body{
+    background-color: BlanchedAlmond;
+}
+th {
+    border-style: outset;
+    text-align: center;
+    height: 30px;
+    
+}
+td{
+    border-style: outset;
+    text-align: center;
+    height: 30px;
+}
+h1{
+    text-align: center;
+}
+.center{
+    margin: auto;
+    width : 60%;
+    border : hidden;
+    padding: 20px;
+    outline-style: outset;
+    background-color:burlywood;
+}
